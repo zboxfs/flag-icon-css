@@ -1,5 +1,7 @@
 # flag-icon-css
 
+** This fork is for zbox.io only, do not use.**
+
 [![npm version](https://badge.fury.io/js/flag-icon-css.svg)](https://badge.fury.io/js/flag-icon-css)
 
 A collection of all country flags in SVG — plus the CSS for easier integration.
